@@ -65,6 +65,34 @@
 
 ---
 
+## Other Claude Code Projects
+
+**Claude Code** 를 활용해 직접 설계·구현한 사이드 프로젝트들입니다.
+AI 에이전트 오케스트레이션 · 자동화 파이프라인 · 웹서비스 등 다양한 도메인을 다루며 빠른 프로토타이핑 역량을 보여줍니다.
+
+### AI Agent · Orchestration
+
+| 프로젝트 | 설명 | Stack |
+|---|---|---|
+| **discord-multi-agent** | Discord 슬래시 명령으로 개발 작업을 투입하면 Planner / Coder / Reviewer / Tester 4개 AI 에이전트가 협력해 완수하는 멀티에이전트 시스템 | `Python` `Discord.py` `Claude API` |
+| **tiktok_factory** | Gemini CLI(리서치) + Claude Code CLI(스크립팅) + matplotlib/FFmpeg 렌더링을 결합한 숏폼 영상 자동 생산 파이프라인 | `Python` `Multi-LLM` `FFmpeg` `edge-tts` |
+
+### Automation · Data Pipeline
+
+| 프로젝트 | 설명 | Stack |
+|---|---|---|
+| **product-automation** | 도매 사이트 크롤링 → 트렌드/수요 분석 → 쿠팡/네이버 자동 등록까지의 이커머스 데이터 파이프라인 (FastAPI + Celery 비동기 워크플로우) | `FastAPI` `Celery` `SQLAlchemy` `Crawler` |
+| **obsidian_brain** | 텔레그램 메시지를 Gemini가 의도 분석 후 Google Drive의 Obsidian 볼트에 자동 분류·저장하는 개인 지식관리 봇 | `Python` `Telegram` `Gemini` `GDrive API` |
+
+### Web Service
+
+| 프로젝트 | 설명 | Stack |
+|---|---|---|
+| **korean-name-generator** | 영어권 사용자를 위한 한글 이름 생성 웹앱 (의미·한자·발음 동시 제시) | `Next.js` `TypeScript` `React` |
+| **saju-gunghap** | 사주/궁합 분석 + 길한 방위·색 추천 웹서비스 | `Next.js` `TypeScript` |
+
+---
+
 ## Certifications
 
 - **AWS Certified Solutions Architect – Associate** (2024.02)
