@@ -21,16 +21,6 @@
 
 ---
 
-## Career Highlights
-
-| 기간 | 소속 · 역할 | 키워드 |
-|---|---|---|
-| **2023.01 ~ 현재** | **GSITM @ GS Caltex** - Data Architect | 전사 DA, 거버넌스, PowerBI, GenAI |
-| 2019.01 ~ 2023.01 | EN-CORE - Data Architect | 표준화 컨설팅, DQ, 모델링 툴 운영 |
-| 2018.03 ~ 2018.12 | 마이스타정보기술 @ 현대카드 | DW, 리스크 정보계 배치 개발 |
-| 2016.02 ~ 2017.09 | 새롬씨앤씨 - ERP 개발/운영 | ERP, SQL |
-
----
 
 ## Tech Stack
 
